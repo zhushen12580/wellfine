@@ -121,7 +121,7 @@ const config = {
             items: [
               {
                 label: '电话',
-                href: '15675889553',
+                href: 'tel:15675889553',
               },
               {
                 label: '邮箱',
